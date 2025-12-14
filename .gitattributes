@@ -1,2 +1,4 @@
 model.pkl filter=lfs diff=lfs merge=lfs -text
 vectorizer.pkl filter=lfs diff=lfs merge=lfs -text
+dataset/Fake.csv filter=lfs diff=lfs merge=lfs -text
+dataset/True.csv filter=lfs diff=lfs merge=lfs -text
